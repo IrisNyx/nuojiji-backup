@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782504045009,
+  "timestamp": 1782504047167,
   "appVersion": "6.9.7 (2026.06.26)",
   "tables": [
     "characters",
@@ -128,5 +128,8 @@
     "fontStore": true,
     "_migration": true
   },
-  "inProgress": true
+  "skippedTables": [
+    "globalSettings"
+  ],
+  "inProgress": false
 }
